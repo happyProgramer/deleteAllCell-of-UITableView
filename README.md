@@ -1,0 +1,1 @@
+# deleteAllCell-of-UITableView
